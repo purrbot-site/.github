@@ -12,7 +12,7 @@
 
 ![banner]
 
-The Purrbot.site GitHub Organization contains all software made for the Discord [\*Purr*][website] including the code of the bot itself!
+The Purrbot.site GitHub Organization contains all software made for the Discord Bot [\*Purr*][website] including the code of the bot itself!
 
 ### Contributions
 If you want to contribute, feel free to do so through Pull requests or similar.  
