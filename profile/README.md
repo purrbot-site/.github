@@ -3,6 +3,7 @@
 [website]: https://purrbot.site
 [documentation]: https://docs.purrbot.site
 [discord]: https://purrbot.site/discord
+[mkdocs]: https://www.mkdocs.org
 
 [purrbot]: https://github.com/purrbot-site/PurrBot
 [imageapi]: https://github.com/purrbot-site/ImageAPI
