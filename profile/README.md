@@ -4,10 +4,12 @@
 [documentation]: https://docs.purrbot.site
 [discord]: https://purrbot.site/discord
 [mkdocs]: https://www.mkdocs.org
+[upptime]: https://upptime.js.org
 
 [purrbot]: https://github.com/purrbot-site/PurrBot
 [imageapi]: https://github.com/purrbot-site/ImageAPI
 [docs]: https://github.com/purrbot-site/Docs
+[status]: https://github.com/purrbot-site/Status
 
 <!-- Start of Readme -->
 
@@ -26,6 +28,8 @@ Suggestions/Feature requests should be made through Discussions (where available
   Open source API made as a counterpart to the popular nekos.life API with goals of better Discord ToS compliance.
 - **[Docs]**  
   Documentation of \*Purr* and the ImageAPI, made in Markdown and build with [MkDocs].
+- **[Status]**  
+  Current status of the bot, website and API, powered by [Upptime]
 
 ### Links
 - [Website]
